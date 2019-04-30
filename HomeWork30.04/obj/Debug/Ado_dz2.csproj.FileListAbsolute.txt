@@ -1,0 +1,12 @@
+E:\ItStep\Ado_dz2\Ado_dz2\bin\Debug\Ado_dz2.exe.config
+E:\ItStep\Ado_dz2\Ado_dz2\bin\Debug\Ado_dz2.exe
+E:\ItStep\Ado_dz2\Ado_dz2\bin\Debug\Ado_dz2.pdb
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.csprojAssemblyReference.cache
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.Properties.Resources.resources
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.csproj.GenerateResource.cache
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.csproj.CoreCompileInputs.cache
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.exe
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.pdb
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.Form1.resources
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.FormAddUser.resources
+E:\ItStep\Ado_dz2\Ado_dz2\obj\Debug\Ado_dz2.FormChangeUser.resources
